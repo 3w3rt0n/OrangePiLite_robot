@@ -45,6 +45,11 @@ Instalação de bibliotecas para Python:
 
 - apt-get install libv4l-dev
 
+Instalação acesso remoto
+
+- apt-get install tihgtvncserver
+- apt-get install xrdp
+
 
 
 
